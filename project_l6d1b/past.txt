@@ -1,0 +1,9 @@
+Projects: 
+Sam  Sept. 2, 2019  false  Vancouver  new project
+Computers  20  false  .  .
+Jim  Oct. 30, 2019  true  Surrey  new project
+Computers  20  false  .  .
+Keyboards  10  true  .  .
+Bob  Feb 2, 2020  false  Vancouver  new project
+Cucumber  3  false  .  .
+Banana  2  false  .  .
