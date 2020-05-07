@@ -194,8 +194,8 @@ public class EditProjectFrame extends JFrame implements ActionListener {
             if (p1.getName().equalsIgnoreCase(projectNameField.getText())) {
                 signal = false;
                 EditProjectFrame editProject = new EditProjectFrame(p1, list);
-                dispose();
-                break;
+                //dispose();
+                //break;
             }
         }
         if (signal) {
